@@ -1,5 +1,7 @@
 ### Hello 👋
-My name is Leticia Gerola, I'm a brazilian data scientist completely in love with Machine Learning and all sorts of AI applications. 
+My name is Leticia Gerola, I'm a brazilian Data Scientist in love with Machine Learning and all sorts of AI applications. 
+
+Originally graduated as a journalist, I believe in the power of comunication for problem solving and world conquering!
 
 - 🔭 Currently working as junior DS for [GAVB](https://www.gavb.com.br/)
 - 👯 Techs: Python, SQL, Docker, Cloud, AI.
