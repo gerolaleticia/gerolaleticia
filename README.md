@@ -7,7 +7,7 @@ Originally graduated as a journalist, I believe in the power of comunication for
 - 👯 Techs: Python, SQL, Docker, Cloud, AI.
 - 📫 How to reach me: leticia.gerola@outlook.com | [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gerola/) 
 
-Check out my [Data Science blog](https://medium.com/joguei-os-dados) with articles and projects I developed :)
+Check out my [Data Science blog](https://medium.com/joguei-os-dados) with articles and projects I've developed :)
 <!--
 **gerolaleticia/gerolaleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
