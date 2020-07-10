@@ -1,11 +1,11 @@
 ### Hello 👋
-My name is Leticia Gerola, I'm a brazilian data scientist in love with Machine Learning and all sorts of AI applications. 
+My name is Leticia Gerola, I'm a brazilian data scientist completely in love with Machine Learning and all sorts of AI applications. 
 
-- 🔭 Currently working as junior data scientist for GAVB
-- 🌱 Techs: Python, SQL, Docker, Cloud, Machine Learning
-- 📫 How to reach me: leticia.gerola@outlook.com | [Linkedin](https://www.linkedin.com/in/let%C3%ADcia-gerola/) 
+- 🔭 Currently working as junior DS for GAVB
+- 🌱 Techs: Python, SQL, Docker, Cloud, AI.
+- 📫 How to reach me: leticia.gerola@outlook.com | [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gerola/) 
 
-Check out my [Data Science blog](https://medium.com/joguei-os-dados)
+Check out my [Data Science blog](https://medium.com/joguei-os-dados) with articles about projects I developed!
 <!--
 **gerolaleticia/gerolaleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
