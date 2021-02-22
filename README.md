@@ -6,8 +6,7 @@ Originally graduated as a journalist, I believe in the power of comunication for
 - 🔭 Currently working as a Cloud DS for [GAVB](https://www.gavb.com.br/)
 - 👯 Techs & Tools: Python, SQL, Docker, Cloud, GCP, Databricks.
 - 📫 How to reach me: leticia.gerola@outlook.com | [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gerola/) 
-
-Check out my [Data Science blog](https://medium.com/joguei-os-dados) with articles and projects I've developed :)
+- 🌐 Check out my [personal website](https://medium.com/joguei-os-dados) with articles and projects I've developed :)
 <!--
 **gerolaleticia/gerolaleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
