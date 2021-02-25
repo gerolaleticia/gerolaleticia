@@ -3,7 +3,7 @@ My name is Leticia Gerola, I'm a brazilian Data Scientist in love with Machine L
 
 Originally graduated as a journalist, I believe in the power of comunication for problem solving and world conquering!
 
-- 🔭 Currently working as a Cloud DS for [GAVB](https://www.gavb.com.br/)
+- 🔭 Currently working as a Data Scientist and AI developer for [GAVB](https://www.gavb.com.br/)
 - 👯 Techs & Tools: Python, SQL, Docker, Cloud, GCP, Databricks.
 - 📫 How to reach me: leticia.gerola@outlook.com | [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gerola/) 
 - 🌐 Check out my [personal website](https://medium.com/joguei-os-dados) with articles and projects I've developed :)
